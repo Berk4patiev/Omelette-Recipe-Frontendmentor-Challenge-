@@ -23,7 +23,7 @@ Making an omelette recipe page.
 
 ### Links
 
-- Live Site URL: [You can visit the sire here!]([https://your-live-site-url.com](https://berk4patiev.github.io/Omelette-Recipe-Frontendmentor-Challenge-/))
+- Live Site URL: [You can visit the site here!](https://berk4patiev.github.io/Omelette-Recipe-Frontendmentor-Challenge-/)
 
 ## My process
 
@@ -41,5 +41,5 @@ I learned and review semantic HTML elements and improved my CSS by using variabl
 
 ## Author
 
-- Website - [Berk Aptiev](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Berk Aptiev](https://berk4patiev.github.io/Omelette-Recipe-Frontendmentor-Challenge-/)
+- Frontend Mentor - [@Berk4patiev](https://www.frontendmentor.io/profile/Berk4patiev)
