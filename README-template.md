@@ -23,8 +23,7 @@ Making an omelette recipe page.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [You can visit the sire here!]([https://your-live-site-url.com](https://berk4patiev.github.io/Omelette-Recipe-Frontendmentor-Challenge-/))
 
 ## My process
 
