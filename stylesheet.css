@@ -1,0 +1,73 @@
+:root{
+    --white: hsl(0, 0%, 100%);
+
+    --stone-100: hsl(30, 54%, 90%);
+    --stone-150: hsl(30, 18%, 87%);
+    --stone-600: hsl(30, 10%, 34%);
+    --stone-900: hsl(24, 5%, 18%);
+
+    --text-color: hsl(14, 45%, 36%);
+
+    --h3-text-color: hsl(332, 51%, 32%);
+    --h3-background-color: hsl(330, 100%, 98%);
+    /*fonts*/
+    --body-font:"Outfit";
+    --header-font:"Young Serif";
+}
+body{
+    background-color: var(--stone-100);
+    font-family:var(--body-font);
+}
+h1,h2,h3{
+    font-family: var(--header-font);
+    font-weight: normal;
+}
+main{
+    margin: 5%  10%;
+    padding:3%;
+    background-color: var(--white);
+    border-radius: 15px;
+}
+img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+#preparation-time{
+    background-color: var(--h3-background-color);
+    border-radius: 15px;
+    padding: 2%;
+}
+h2{
+    color: var(--text-color);
+}
+#preparation-time{
+    padding: 3% 5%;
+}
+#preparation-time h3{
+    color: var(--h3-text-color);
+    margin: 1% 0%;
+}
+#preparation-time ul{
+    list-style-position: inside;
+    padding: 0px;
+}
+#ingredients ul{
+    padding: 0px;
+    list-style-position: inside;
+}
+#nutrition{
+    width: 100%;
+    height: 100%;
+}
+#food-info{
+    color: var(--text-color);
+    width: 100%;
+    border-collapse: collapse;
+}
+#food-info td{
+ border-bottom: 2px solid lightgrey;
+ padding: 2%;
+}
+#food-info tr:last-child td{
+    border-bottom: none;
+}
