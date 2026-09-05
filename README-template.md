@@ -37,9 +37,9 @@ Used semantic HTML to make the code readable for machines then styled it to look
 
 ### What I learned
 
-I learned and review semantic HTML elements and improved my CSS by using variables.
+I learned and reviewed semantic HTML elements and improved my CSS by using variables.
 
 ## Author
 
-- Website - [Berk Aptiev](https://berk4patiev.github.io/Omelette-Recipe-Frontendmentor-Challenge-/)
+- Website - [visit](https://berk4patiev.github.io/Omelette-Recipe-Frontendmentor-Challenge-/)
 - Frontend Mentor - [@Berk4patiev](https://www.frontendmentor.io/profile/Berk4patiev)
